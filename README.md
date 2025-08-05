@@ -33,8 +33,17 @@
 
 ### 👨‍💻 About Me
 
-I’m a B.Tech Computer Science Engineering student with a specialization in Data Science. My interests lie in Machine Learning, Deep Learning, and Natural Language Processing. I enjoy building real-world data-driven solutions and working on impactful projects. With hands-on experience in Python, SQL, and tools like Power BI, I’m eager to contribute to innovative tech communities and open-source collaborations.
+I’m a B.Tech Computer Science Engineering student specializing in Data Science, with strong interests in Machine Learning, Deep Learning, and Natural Language Processing. I enjoy working on real-world, data-driven challenges and building intelligent solutions using Python, SQL, Power BI, and deep learning frameworks like TensorFlow and PyTorch.
 
+💼 I’ve gained hands-on experience through multiple internships:
+
+Content Writer Intern at AI Zoned (remote) – writing technical and non-technical content on topics such as Artificial Intelligence, career development, and emerging technologies.
+
+Intern at CDAC – worked on the development of a medical parallel corpus for bilingual NLP applications, contributing to data collection, cleaning, and alignment.
+
+Data Analyst Intern at Hobit – assisted with basic data handling tasks and gained exposure to real-world data environments.
+
+I'm passionate about continuous learning and actively looking to collaborate on innovative projects in Data Science, NLP, and AI.
 ---
 
 ### 🛠 My Tech Stack
