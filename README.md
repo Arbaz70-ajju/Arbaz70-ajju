@@ -35,14 +35,6 @@
 
 I’m a B.Tech Computer Science Engineering student specializing in Data Science, with strong interests in Machine Learning, Deep Learning, and Natural Language Processing. I enjoy working on real-world, data-driven challenges and building intelligent solutions using Python, SQL, Power BI, and deep learning frameworks like TensorFlow and PyTorch.
 
-💼 I’ve gained hands-on experience through multiple internships:
-
-Content Writer Intern at AI Zoned (remote) – writing technical and non-technical content on topics such as Artificial Intelligence, career development, and emerging technologies.
-
-Intern at CDAC – worked on the development of a medical parallel corpus for bilingual NLP applications, contributing to data collection, cleaning, and alignment.
-
-Data Analyst Intern at Hobit – assisted with basic data handling tasks and gained exposure to real-world data environments.
-
 I'm passionate about continuous learning and actively looking to collaborate on innovative projects in Data Science, NLP, and AI.
 ---
 
@@ -157,18 +149,27 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 ### 💼 Professional Experience
 
-*NLP Intern* @ *CDAC NOIDA* (Uttar Pradesh, India)  
+💼 Experience
+🧠 NLP Intern @ CDAC NOIDA (Uttar Pradesh, India)
 May 2025 – July 2025
-- Preprocessed and cleaned a large bilingual (EN-HI) parallel corpus for a robust NLP pipeline.
-- Applied LaBSE embeddings to compute sentence similarity and validate alignment accuracy.
-- Conducted statistical analysis and created visualizations to derive sentence-level insights.
 
-*Data Analyst Intern* @ *Hobit (Startup)* (Uttar Pradesh, India)  
+Preprocessed and cleaned a large bilingual (EN-HI) parallel corpus for a robust NLP pipeline.
+Applied LaBSE embeddings to compute sentence similarity and validate alignment accuracy.
+Conducted statistical analysis and created visualizations to derive sentence-level insights.
+
+📝 Content Writer Intern @ AI Zoned (Remote)
+May 2025 – Present
+
+Created technical and non-technical articles on AI, career guidance, and emerging tech trends.
+Simplified complex machine learning and data science concepts for wider audience engagement.
+Worked with the editorial team to maintain content quality and topic relevance.
+
+📊 Data Analyst Intern @ Hobit (Startup) (Uttar Pradesh, India)
 June 2024 – July 2024
-- Gained hands-on exposure to data operations and analytics workflows in a fast-paced startup environment.
-- Performed data cleaning, preprocessing, and exploratory analysis using Python and Excel.
-- Collaborated with the team to understand data-driven decision-making processes.
 
+Gained hands-on exposure to data operations and analytics workflows in a startup environment.
+Performed data cleaning, preprocessing, and exploratory analysis using Python and Excel.
+Collaborated with the team to understand data-driven decision-making processes.
 ---
 
 ### 🎓 Education & Certifications
