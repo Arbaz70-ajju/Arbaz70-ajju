@@ -33,13 +33,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on a *Building Architecture Style Classification* project using CNNs and Transfer Learning.
-- 🌱 I’m currently deepening my knowledge in *Deep Learning frameworks* and *advanced NLP techniques*.
-- 👯 I’m looking to collaborate on open-source *Data Science* and *Machine Learning* projects.
-- 🤔 I'm looking for opportunities to apply my skills in a real-world, data-driven environment.
-- 💬 Ask me about *Python, SQL, Machine Learning, Power BI*, or anything related to data!
-- 📫 How to reach me: *arbaazmansoori701@gmail.com*
-- ⚡ Fun fact: Beyond the code, I have a passion for managing live events and concerts!
+I’m a B.Tech Computer Science Engineering student with a specialization in Data Science. My interests lie in Machine Learning, Deep Learning, and Natural Language Processing. I enjoy building real-world data-driven solutions and working on impactful projects. With hands-on experience in Python, SQL, and tools like Power BI, I’m eager to contribute to innovative tech communities and open-source collaborations.
 
 ---
 
