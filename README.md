@@ -50,7 +50,7 @@ I'm passionate about continuous learning and actively looking to collaborate on 
 - Conducted statistical analysis and created visualizations to derive sentence-level insights.
 
 **📝 Content Writer Intern** @ *AI Zoned* (Remote)  
-**May 2025 – Present**  
+**May 2025 – August 2025**  
 - Created technical and non-technical articles on AI, career guidance, and emerging tech trends.  
 - Simplified complex machine learning and data science concepts for wider audience engagement.  
 - Worked with the editorial team to maintain content quality and topic relevance.
@@ -122,18 +122,6 @@ I'm passionate about continuous learning and actively looking to collaborate on 
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARBAAJMANSOORI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Arbaaj's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARBAAJMANSOORI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARBAAJMANSOORI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 | Project                                                                             | Description                                                                                             | Tech Stack |
@@ -152,10 +140,12 @@ I'm passionate about continuous learning and actively looking to collaborate on 
   - CGPA: **7.8**
 
 #### 📜 Certifications  
+- *AI Foundations Associate* - Oracle
+- *Data Science Professional* - Oracle
+- *Java Foundation* – Oracle
+- *Patent Law for Engineers and Scientists* – NPTEL 
 - *Machine Learning* – Internshala  
 - *Project Management: Planning, Execution, Evaluation and Control* – NPTEL  
-- *Patent Law for Engineers and Scientists* – NPTEL  
-- *Java Foundation* – Oracle
 
 <br/>
 
